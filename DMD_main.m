@@ -39,8 +39,8 @@ s=1;
 %% Output
 % Phi   -> DMD projected eigenmodes (see equation 5)
 % omega -> continuous-time eigenvalues of DMD modes (see step 6 in Algorithm 1)
-
-
+% ReconstructedImage -> Reconstructed spectra by DMD
+% b -> amplitudes of DMD modes
 
 %% data processing
 
