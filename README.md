@@ -1,6 +1,6 @@
 # Dynamics-Mode-Decomposition analysis
 
-Code for the paper [Cutting Through the Noise: Extracting Dynamics from Ultrafast Spectra using Dynamic Mode Decomposition](https://universal.pdf) by Cong Xu, and Carlos R. Baiz.
+Code for the paper [Cutting Through the Noise: Extracting Dynamics from Ultrafast Spectra using Dynamic Mode Decomposition]() by Cong Xu, and Carlos R. Baiz.
 Use this script to evaluate FFCF from matlab 2D IR spectra file by dynamic mode decomposition.
 
 # Input
